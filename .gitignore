@@ -1,3 +1,5 @@
 /node_modules/
 /config/
 *.db
+src/controllers/.DS_Store
+src/router/.DS_Store
